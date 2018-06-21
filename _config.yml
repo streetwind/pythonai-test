@@ -1,0 +1,6 @@
+#百度语音API
+baiduapi:
+    appid: 11275248
+    apikey: 'iqxiOVnvjN4zE0brlYHTgHL2'
+    apisecret: '003e6d0641bdc6345a20042027a5f31c'
+test: 测试
