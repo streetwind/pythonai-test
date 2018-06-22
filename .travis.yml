@@ -4,9 +4,9 @@ language: python
 virtualenv:
   system_site_packages: true
 python:
-- '3.6'
+  - '3.6'
 install:
-- pip install -r requirements.txt
-script: pytest
-after_script: cd ~
+  - pip install -r requirements.txt
+script: 
+  - python main.py
 
